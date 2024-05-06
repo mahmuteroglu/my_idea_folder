@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="995067e4-8019-4587-91c7-771754816c13" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cJDuEOHN0bm7DOyJtHVNSaobPZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.C01_JUnit.executor": "Run",
+    "JUnit.C01_JUnit.test01.executor": "Run",
+    "JUnit.C02_JUnitAnnotations.executor": "Run",
+    "JUnit.C03_BeforeAllAfterAll.executor": "Run",
+    "JUnit.C04_AssertionMethods.assertArrayEqualsTest.executor": "Run",
+    "JUnit.C04_AssertionMethods.assertEqualsTest.executor": "Run",
+    "JUnit.C04_AssertionMethods.assertFalseTest.executor": "Run",
+    "JUnit.C04_AssertionMethods.assertNotNullTest.executor": "Run",
+    "JUnit.C04_AssertionMethods.assertNotSameTest.executor": "Run",
+    "JUnit.C04_AssertionMethods.assertNullTest.executor": "Run",
+    "JUnit.C04_AssertionMethods.assertSameTest.executor": "Run",
+    "JUnit.C04_AssertionMethods.assertTrueTest.executor": "Run",
+    "JUnit.C05_AssertionTest.test1.executor": "Run",
+    "JUnit.C05_AssertionTest.test2.executor": "Run",
+    "JUnit.C05_AssertionTest.test3.executor": "Run",
+    "JUnit.C07_Xpath.byXpath.executor": "Run",
+    "JUnit.C07_Xpath.executor": "Run",
+    "JUnit.C07_Xpath.test1.executor": "Run",
+    "JUnit.C07_Xpath.test2.executor": "Run",
+    "JUnit.C07_Xpath.test3.executor": "Run",
+    "JUnit.C07_Xpath.test4.executor": "Run",
+    "JUnit.C07_Xpath.test5.executor": "Run",
+    "JUnit.C08_WebElementCommands.executor": "Run",
+    "JUnit.C08_WebElementCommands.test1.executor": "Run",
+    "JUnit.C09_LocatorPractise1.executor": "Run",
+    "JUnit.C13_DynamicXpath.executor": "Run",
+    "JUnit.C13_DynamicXpath.test1.executor": "Run",
+    "JUnit.C13_DynamicXpath.test2.executor": "Run",
+    "JUnit.C14_CSSSelector.test.executor": "Run",
+    "JUnit.C15_RelativeLocator.executor": "Run",
+    "JUnit.C15_RelativeLocator.test.executor": "Run",
+    "JUnit.C15_RelativeLocator.test1.executor": "Run",
+    "JUnit.C15_RelativeLocator.test2.executor": "Run",
+    "JUnit.C16_ChromeOptions.executor": "Run",
+    "JUnit.C17_Checkboxes.executor": "Run",
+    "JUnit.C18_RadioButtons.executor": "Run",
+    "JUnit.C19_Faker.test.executor": "Run",
+    "JUnit.C20_DropDown1.test.executor": "Run",
+    "JUnit.C21_DropDown2.test.executor": "Run",
+    "JUnit.C23_Waits.explicitlyWait.executor": "Run",
+    "JUnit.C23_Waits.implicitlyWait.executor": "Run",
+    "JUnit.C23_Waits.javaWait.executor": "Run",
+    "JUnit.C23_Waits.pageLoadTimeOut.executor": "Run",
+    "JUnit.C25_Alert1.test.executor": "Run",
+    "JUnit.C27_BasicAuthentication.test.executor": "Run",
+    "JUnit.C27_BasicAuthentication.test2.executor": "Run",
+    "JUnit.C28_Iframe.test.executor": "Run",
+    "JUnit.C28_ShadowRoot.test.executor": "Run",
+    "JUnit.C29_ShadowRoot.javascriptExecutor (1).executor": "Run",
+    "JUnit.C29_ShadowRoot.javascriptExecutor.executor": "Run",
+    "JUnit.C29_ShadowRoot.withGetShadowRootMethod.executor": "Run",
+    "JUnit.C29_ShadowRootWatir.javascriptExecutor.executor": "Run",
+    "JUnit.C29_ShadowRootWatir.withGetShadowRootMethod.executor": "Run",
+    "JUnit.C30_Clear.test.executor": "Run",
+    "JUnit.C30_SendKeys.test.executor": "Run",
+    "JUnit.C31_Clear.test.executor": "Run",
+    "JUnit.C31_TestBase.executor": "Run",
+    "JUnit.C32_TestBase.executor": "Run",
+    "JUnit.C33_WindowHandle1.test1.executor": "Run",
+    "JUnit.C34_WindowHandle2.test1.executor": "Run",
+    "JUnit.C35_WindowHandle3.test1.executor": "Run",
+    "JUnit.C35_WindowHandle3.test2.executor": "Run",
+    "JUnit.C36_Actions.test.executor": "Run",
+    "JUnit.C37_MouseActions.test.executor": "Run",
+    "JUnit.C38_DragAndDropByHorizontal.dragSliderXaxe.executor": "Run",
+    "JUnit.C39_DragAndDropByVertical.dragSliderYaxe.executor": "Run",
+    "JUnit.C40_HoverOver.hoverOver.executor": "Run",
+    "JUnit.C41_KeyBoardActions.testKeyboardActions.executor": "Run",
+    "JUnit.C42_ScrollActions.scrollArrowUpDown.executor": "Run",
+    "JUnit.C42_ScrollActions.scrollMoveToElement.executor": "Run",
+    "JUnit.C42_ScrollActions.scrollPageUpDown.executor": "Run",
+    "JUnit.C43_JavascriptExecutor.test1.executor": "Debug",
+    "JUnit.C44_RobotClass.test1.executor": "Run",
+    "JUnit.C45_Cookies.test1.executor": "Run",
+    "JUnit.HW_ShadowRoot.test.executor": "Run",
+    "JUnit.HW_ShadowRoot.withGetShadowRootMethod.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Mahmut/Downloads/DE3_Selenium2_JUnit/DE3_Selenium2_JUnit2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C43_JavascriptExecutor.test1">
+    <configuration name="C41_KeyBoardActions.testKeyboardActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DE3_Selenium2_JUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C41_KeyBoardActions" />
+      <option name="METHOD_NAME" value="testKeyboardActions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C42_ScrollActions.scrollArrowUpDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DE3_Selenium2_JUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C42_ScrollActions" />
+      <option name="METHOD_NAME" value="scrollArrowUpDown" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C42_ScrollActions.scrollMoveToElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DE3_Selenium2_JUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C42_ScrollActions" />
+      <option name="METHOD_NAME" value="scrollMoveToElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C42_ScrollActions.scrollPageUpDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DE3_Selenium2_JUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C42_ScrollActions" />
+      <option name="METHOD_NAME" value="scrollPageUpDown" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C43_JavascriptExecutor.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DE3_Selenium2_JUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C43_JavascriptExecutor" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.C43_JavascriptExecutor.test1" />
+        <item itemvalue="JUnit.C42_ScrollActions.scrollMoveToElement" />
+        <item itemvalue="JUnit.C42_ScrollActions.scrollArrowUpDown" />
+        <item itemvalue="JUnit.C42_ScrollActions.scrollPageUpDown" />
+        <item itemvalue="JUnit.C41_KeyBoardActions.testKeyboardActions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="995067e4-8019-4587-91c7-771754816c13" name="Changes" comment="" />
+      <created>1707821012661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707821012661</updated>
+    </task>
+    <servers />
+  </component>
+</project>
